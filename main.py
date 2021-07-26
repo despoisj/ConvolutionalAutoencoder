@@ -1,6 +1,6 @@
 """ 
 DISCLAIMER:
-This code has been written in the optic
+This code has been written in 2017 in the optic
 of my 'quick-n-dirty' Deep Learning series
 on Medium (@juliendespois) to show the 
 concept. Please do not judge me by the 
